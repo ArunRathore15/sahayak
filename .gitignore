@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+.idea/
+target/
+*.iml
+.settings/
+.classpath
+.project
+bin/
+application.properties (Agar ismein passwords hain, toh ise mat push karna)
